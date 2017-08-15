@@ -1,3 +1,5 @@
-2
+3
 ||| 
 The new ArkodeiTV Build is here! Update now!
+What's new?? Revamped sports and TV guide along with minor maitenance
+How do I update?? Scroll over to the power menu and press update kodi build, choose the 1st option and follow the prompts
