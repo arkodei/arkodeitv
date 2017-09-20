@@ -1,5 +1,6 @@
-3
+4
 ||| 
-The new ArkodeiTV Build is here! Update now!
-What's new?? Revamped sports and TV guide along with minor maitenance
+The new ArkodeiTV Build is here! Update now! 
+You will see "V12" on the welcome screen when you launch KODI if the update was successful.
+What's new?? Revamped TV guide with better links and over 50 new channels along with minor maitenance
 How do I update?? Scroll over to the power menu and press update kodi build, choose the 1st option and follow the prompts
