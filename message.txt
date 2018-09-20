@@ -1,10 +1,5 @@
-6
+7
 ||| 
-The new ArkodeiTV Build is here! Update now! 
-You will see "V14" on the welcome screen when you launch KODI if the update was successful.
-What's new?? updates to the movies and TV Shows sections along with minor maitenance
-How do I update?? Scroll over to the power menu and press update kodi build, go to builds and do a fresh install
-Also check out the APKs section while you're there for some great android apps to get even more live TV content
+To all my customers mourning the death of Terrarium TV I've posted a modded version of the app that still works! This version will never receive an update so it will slowly die but hey enjoy it while it lasts. It can be found under the maintenance tab in kodi where you can click "download these apps"
 
-We are also proud to offer customers a new premium Live TV service with amazing quality for a fraction of the price of cable!
-Contact us on social media or directly for more info on that!
+Be sure to check out my other apps while you're there and always keep your kodi build up to date. As these android apps come and go Kodi remains.
