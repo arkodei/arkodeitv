@@ -1,8 +1,6 @@
-10
+11
 ||| 
 These are the current apps for all catergories! If nothing happens when you click it in kodi you need to go to the 'download apps' tab under maitenance and download it then scroll over to install 'apps' and install all the apps you've downloaded!
 Movies & TV Show Apps: BEETV, CINEMA HD, ZINITEVI, VIVA TV
 Live TV Apps: MOBDRO, LIVENET TV, SWIFT STREAMZ, OLA TV PRO, REDBOX, FREEFLIX TV, TV TAP, HDSTREAMZ, MEDIA LOUNGE, OREO TV
-Tools: ACESTREAM, MX PLAYER, VLC, APK INSTALLER, LUDIO PLAYER, WUFFY PLAYER,
-
-Be sure to check out my other apps while you're there and always keep your kodi build up to date. As these android apps come and go Kodi remains.
+Tools: ACESTREAM, MX PLAYER, VLC, APK INSTALLER, LUDIO PLAYER, WUFFY PLAYER
