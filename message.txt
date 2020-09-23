@@ -1,4 +1,4 @@
-8
+9
 ||| 
 These are the current apps for all catergories! If nothing happens when you click it in kodi you need to go to the 'download apps' tab under maitenance and download it then scroll over to install 'apps' and install all the apps you've downloaded!
 Movies & TV Show Apps: BEETV, CINEMA HD, ZINITEVI, VIVA TV
