@@ -1,5 +1,8 @@
-7
+8
 ||| 
-To all my customers mourning the death of Terrarium TV I've posted a modded version of the app that still works! This version will never receive an update so it will slowly die but hey enjoy it while it lasts. It can be found under the maintenance tab in kodi where you can click "download these apps"
+These are the current apps for all catergories! If nothing happens when you click it in kodi you need to go to the 'download apps' tab under maitenance and download it then scroll over to install 'apps' and install all the apps you've downloaded!
+Movies & TV Show Apps: BEETV, CINEMA HD, ZINITEVI, VIVA TV
+Live TV Apps: MOBDRO, LIVENET TV, SWIFT STREAMZ, OLA TV PRO, REDBOX, FREEFLIX TV, TV TAP, HDSTREAMZ, MEDIA LOUNGE, OREO TV
+Tools: ACESTREAM, MX PLAYER, VLC, APK INSTALLER, LUDIO PLAYER, WUFFY PLAYER,
 
 Be sure to check out my other apps while you're there and always keep your kodi build up to date. As these android apps come and go Kodi remains.
